@@ -16,3 +16,4 @@ selectionSort(list)
 
 print("Sorted list by Selection method")
 print(list)
+print("changed")
